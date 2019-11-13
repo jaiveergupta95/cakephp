@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Student management system</title>
+<title>Student management system jaiiaii</title>
 <link href="../css/style.css" rel="stylesheet" type="text/css">
 <script>
 	function startTimer(duration, display) {
